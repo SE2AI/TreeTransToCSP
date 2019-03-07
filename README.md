@@ -1,5 +1,5 @@
 # Guide to use
----:
+---
 1. Please copy file goalmodel.csv to path: C:\Users\Administrator\Documents.
    The column name of csv content are node,nodetype,fatherNode,nextNodeOfSameLevel,relation,childrenType,childrenCount,child1,child2,child3...childN
 2. The visualization of the example goal model is presented in file goalmodel.jpg.
